@@ -1,0 +1,21 @@
+{
+  "name": "techtestsoftwaredev",
+  "version": "1.0.0",
+  "description": "Technical Test from Torre",
+  "main": "index.js",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "jest": "^27.4.3"
+  },
+  "scripts": {
+    "start": "run index.js",
+    "build": "build",
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "jshintConfig": {
+    "esversion": 6
+  },
+  "author": "",
+  "license": "ISC"
+}
